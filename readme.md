@@ -15,9 +15,44 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
         - SE (il frigo è vuoto)
          - decido di fare la spesa
         - SE (il frigo è pieno)
-         - non vado a fare la spesa
+         - rimango a casa
 - Preparo la lista di ciò che manca
     - prendo lo smartphone 
     - apro l'app per le note
-    - preparo una lista di tutto ciò che manca 
-           
+    - preparo una lista di tutto ciò che manca
+- Esco fuori di casa
+    - mi dirigo verso il portone di casa
+    - apro il portone
+    - guardo il tempo fuori
+        - Se (fuori piove)
+          - prendo l'ombrello
+        - se (fuori non piove)
+          - indosso il giacchetto
+    - chiudo la porta
+- Accendo la mia auto
+    - mi dirigo verso la mia auto
+    - prendo le chiavi dalla tasca
+    - premo il tasto per aprire la macchina
+    - apro l'auto
+    - mi siedo
+    - inserisco le chiavi 
+    - premo il pulsante di accensione
+- Arrivo al supermercato
+- Entro dentro il supermercato
+    - 🚲cerco un parcheggio per l'auto FINCHE' non trovo parecheggio
+        - SE (il posto non è occupato da un'altra macchina)
+         - parcheggio l'auto
+        - SE (il posto è occupato)
+         - vado avanti e cerco un posto libero
+    - spengo l'auto
+    - rimuovo le chiavi
+    - apro la portiera
+    - scendo dall'auto
+    - chiudo la portiera
+    - mi dirigo verso l'entrata del supermercato 
+
+
+
+
+
+ 
